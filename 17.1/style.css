@@ -1,0 +1,18 @@
+p {
+    font-size:20px;
+    background-color:#30D5C8;
+    color:#434590;
+    font-family:Helvetica;
+    padding:5px 10px 5px 10px;
+  }
+  li {
+    font-size:20px;
+    background-color:#ffffff;
+    color:#434590;
+    font-family:Helvetica;
+  }
+  h1 {
+      background-color:#30D5C8;
+      font-size:30px;
+      font-family:Helvetica;
+  }
